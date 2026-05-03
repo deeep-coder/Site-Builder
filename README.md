@@ -1,85 +1,133 @@
-🚀 Site Builder
+<h1 align="center">🚀 Site Builder</h1>
 
-A modern drag-and-drop website builder that allows users to create and customize websites easily without deep coding knowledge. This project is designed as a low-code/no-code web builder focusing on simplicity, flexibility, and real-time editing.
+<p align="center">
+  A modern drag-and-drop website builder for creating responsive websites visually.
+</p>
 
-📌 Features
-🧩 Drag & Drop Components
-🎨 Live Preview Editing
-📱 Responsive Design Support
-🧱 Reusable UI Components
-💾 Save & Load Layouts
-⚡ Fast and Lightweight UI
-🔧 Customizable Styles & Content
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green" />
+</p>
 
-Website builders generally allow users to visually create pages using drag-and-drop interfaces along with HTML/CSS customization for flexibility
+---
 
-🛠️ Tech Stack
+## ✨ Overview
 
-Frontend
+**Site Builder** is a low-code/no-code platform that allows users to build websites using a drag-and-drop interface.  
+It provides real-time preview, reusable components, and responsive layouts.
 
-HTML5
-CSS3 / Tailwind CSS
-JavaScript (ES6+)
-React.js (if used)
+---
 
-Backend (if applicable)
+## ⚡ Features
 
-Node.js
-Express.js
+- 🧩 Drag & Drop Builder  
+- 🎨 Real-time Live Preview  
+- 📱 Fully Responsive Design  
+- 🧱 Component-based Architecture  
+- 💾 Save & Load Layouts  
+- ⚡ Fast UI Performance  
 
-Other Tools
+---
 
-Git & GitHub
-REST APIs (if used)
-📂 Project Structure
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js  
+- Tailwind CSS / CSS  
+
+### Backend
+- Node.js  
+- Express.js  
+
+### Tools
+- Git & GitHub  
+
+---
+
+## 📁 Project Structure
+
+```
 Site-Builder/
-│── client/        # Frontend code
-│── server/        # Backend code (if present)
-│── public/        # Static assets
-│── src/           # Main source files
-│── package.json
-│── README.md
-⚙️ Installation & Setup
-1️⃣ Clone the repository
+├── client/
+├── server/
+├── public/
+├── src/
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone Repository
+```bash
 git clone https://github.com/deeep-coder/Site-Builder.git
 cd Site-Builder
-2️⃣ Install dependencies
+```
+
+### 2. Install Dependencies
+```bash
 npm install
-3️⃣ Run the project
+```
+
+### 3. Run Project
+```bash
 npm start
-📸 Screenshots
+```
 
-Add your project screenshots here
+---
 
-/screenshots/home.png
-/screenshots/editor.png
-🎯 Use Cases
-Portfolio Website Builder
-Landing Page Generator
-Resume Website Creator
-Small Business Websites
-🚀 Future Improvements
-🔐 Authentication system
-🌐 Deploy feature (export website)
-📦 Template marketplace
-🤖 AI-based design suggestions
-🤝 Contributing
+## 📸 Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Project+Preview" width="80%" />
+</p>
+
+---
+
+## 🎯 Use Cases
+
+- Portfolio Websites  
+- Landing Pages  
+- Resume Builders  
+- Small Business Websites  
+
+---
+
+## 🔮 Future Enhancements
+
+- 🔐 User Authentication  
+- 🌐 One-click Deployment  
+- 📦 Template Library  
+- 🤖 AI Website Generation  
+
+---
+
+## 🤝 Contributing
 
 Contributions are welcome!
 
-Fork the repo
-Create a new branch
-Commit your changes
-Open a Pull Request
-📄 License
+1. Fork the repo  
+2. Create a new branch  
+3. Commit your changes  
+4. Open a Pull Request  
 
-This project is licensed under the MIT License.
+---
 
-👨‍💻 Author
+## 📄 License
 
-Deep Detroja
+MIT License
 
-GitHub: https://github.com/deeep-coder
-⭐ Show your support
+---
 
-If you like this project, give it a ⭐ on GitHub!
+## 👨‍💻 Author
+
+**Deep Detroja**  
+🔗 https://github.com/deeep-coder  
+
+---
+
+<p align="center">⭐ Star this repo if you found it useful!</p>
