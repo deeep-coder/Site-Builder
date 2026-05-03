@@ -78,33 +78,9 @@ npm install
 npm start
 ```
 
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Project+Preview" width="80%" />
-</p>
 
 ---
 
-## 🎯 Use Cases
-
-- Portfolio Websites  
-- Landing Pages  
-- Resume Builders  
-- Small Business Websites  
-
----
-
-## 🔮 Future Enhancements
-
-- 🔐 User Authentication  
-- 🌐 One-click Deployment  
-- 📦 Template Library  
-- 🤖 AI Website Generation  
-
----
 
 ## 🤝 Contributing
 
@@ -117,11 +93,6 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## 👨‍💻 Author
 
